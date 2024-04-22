@@ -2,7 +2,7 @@
 
 Skills - ASP.NET Core, MySQL, Agile Methodology, IIS Windows Server
 
-Mentored by Mr. Jagadish Kumara Prabhakaran, Senior Associate for Education, Training and Assessment, Infosys-Mysore.
+As a Software Engineer intern in Infosys, I was mentored by Mr. Jagadish Kumara Prabhakaran, Senior Associate for Education, Training and Assessment, Infosys-Mysore in acheiving the below.
 
 •	Defined project goals and user stories for a web application suggesting healthy recipes based on health condition of the user. Implemented Agile methodology with sprint planning and mentor guidance. Utilized ASP.NET Core for web development and MySQL for database management.
 
